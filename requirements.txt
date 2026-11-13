@@ -1,0 +1,11 @@
+numpy>=1.24
+pandas>=2.0
+geopandas>=1.0
+matplotlib>=3.7
+mpltern>=1.0
+libpysal>=4.10
+esda>=2.6
+nbformat>=5.9
+nbclient>=0.10
+ipykernel>=6.0
+jupyterlab>=4.0

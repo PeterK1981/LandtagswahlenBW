@@ -1,0 +1,9 @@
+{
+  "election_snapshot": "Originalbestand März 2026; kein bestätigtes endgültiges Ergebnis",
+  "geometry_date": "2024-01-01",
+  "files": {
+    "bw2026_snapshot.csv": "99b6d31637dcfaf272e0721edbc913b9fb9b791d7198d2d0009726178b124be7",
+    "bw_geometry.gpkg": "0c892d2433684cf4d7095fba37b8fb7f49911fdf31b14bfb29f0434a60ee9d12",
+    "party_columns.json": "e5edac30c9e7c627e23e8dae3746a8514f2ed6da4684885c355c8493041ef578"
+  }
+}
